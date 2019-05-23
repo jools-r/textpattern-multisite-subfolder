@@ -1,0 +1,4 @@
+# Inhibit directory listing
+Options -Indexes
+# Inhibit direct .php access
+RewriteRule .*\.php$ - [R=403,L]
