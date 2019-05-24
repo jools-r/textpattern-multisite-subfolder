@@ -2,7 +2,7 @@
 
 An alternative Textpattern Multisite configuration using an admin subfolder.
 
-*Note: Currently experimental!*
+*Note: Currently experimental!  <-- Use with the [multisite-rev](https://github.com/jools-r/textpattern/tree/multisite-rev) branch*
 
 This `site` folder is a template for a multisite setup where each site’s domain points to a folder and the admin area is reached via a `/textpattern` subfolder.
 
